@@ -101,7 +101,7 @@ export default function Contact() {
                 <div>
                   <p className="text-sm font-semibold text-white">Email</p>
                   <a href="mailto:hello@designdistrict.com" className="text-sm text-white/70 hover:text-[#eab308] transition-colors">
-                    hello@designdistrict.com
+                    designdistrict@gmail.com
                   </a>
                 </div>
               </div>
@@ -142,7 +142,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="mailto:hello@designdistrict.com"
+                href="mailto:designdistrict@gmail.com"
                 className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/[0.03] px-6 py-3 text-sm font-semibold text-white transition-all duration-300 hover:bg-white/[0.08] hover:scale-105"
               >
                 <EmailIcon />
